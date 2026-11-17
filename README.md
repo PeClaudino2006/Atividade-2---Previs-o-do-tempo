@@ -1,4 +1,4 @@
-# Tempo Claro ☀
+# Tempo Claro 
 
 Aplicativo desenvolvido em Flutter para consultar a previsão do tempo de cidades brasileiras utilizando os dados do CPTEC/INPE.
 
